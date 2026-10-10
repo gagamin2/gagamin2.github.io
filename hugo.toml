@@ -1,6 +1,6 @@
 baseURL = "https://gagamin2.github.io/"
 languageCode = "zh-cn"
-title = "My New Hugo Project"
+title = "gagamin2's Blog"
 theme = "PaperMod"
 
 [params]
